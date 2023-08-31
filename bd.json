@@ -1,0 +1,25 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "nome": "Douglas",
+            "email": "douglas.bonifacio01@etec.sp.gov.br",
+            "senha": "123456"
+        },
+        {
+            "id": 2,
+            "nome": "Matheus",
+            "email": "matheus1234@etec.sp.gov.br",
+            "senha": "101010"
+        }
+    ],
+    "produtos":[
+        {
+            "id": 1,
+            "nome": "Café",
+            "descricao": "Café tipo arábica",
+            "validade": "2024-12-31",
+            "preco": 16.59
+        }
+    ]
+}
