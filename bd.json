@@ -1,25 +1,39 @@
 {
-    "usuarios":[
-        {
-            "id": 1,
-            "nome": "Douglas",
-            "email": "douglas.bonifacio01@etec.sp.gov.br",
-            "senha": "123456"
-        },
-        {
-            "id": 2,
-            "nome": "Matheus",
-            "email": "matheus1234@etec.sp.gov.br",
-            "senha": "101010"
-        }
-    ],
-    "produtos":[
-        {
-            "id": 1,
-            "nome": "Café",
-            "descricao": "Café tipo arábica",
-            "validade": "2024-12-31",
-            "preco": 16.59
-        }
-    ]
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Douglas",
+      "email": "douglas.bonifacio01@etec.sp.gov.br",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "nome": "Matheus",
+      "email": "matheus1234@etec.sp.gov.br",
+      "senha": "101010"
+    },
+    {
+      "nome": "lucas",
+      "email": "lucas@etec.com",
+      "senha": "123456",
+      "id": 3
+    }
+  ],
+
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Café",
+      "descricao": "Café tipo arábica",
+      "validade": "2024-12-31",
+      "preco": 16.59
+    },
+    {
+      "nome": "queijo",
+      "descricao": "mussarela",
+      "validade": "10/10/2023",
+      "preco": "25",
+      "id": 2
+    }
+  ]
 }
