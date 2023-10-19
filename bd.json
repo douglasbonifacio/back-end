@@ -2,7 +2,7 @@
   "usuarios": [
     {
       "id": 1,
-      "nome": "Douglas",
+      "nome": "Douglas Bonifacio",
       "email": "douglas.bonifacio01@etec.sp.gov.br",
       "senha": "123456"
     },
@@ -19,7 +19,6 @@
       "id": 3
     }
   ],
-
   "produtos": [
     {
       "id": 1,
